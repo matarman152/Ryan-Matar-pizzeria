@@ -1,0 +1,89 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+header {
+    font-size: 50px;
+    font-family: rye;
+    position:relative;
+    left:60px;
+    top:13px;
+}
+
+
+body {
+    margin: 0;
+    background: #893636;
+    font-family: 'Rock Salt', cursive;
+    font-size: 32px;
+}
+.flex-container {
+    display: flex;
+    justify-content:center;
+}
+.flex-container div {
+    flex: 0 1 1600px;
+    height: 72px;
+    
+}
+nav2 {
+    font-size: 21.333px;
+    text-align:center;
+    align-items:center;
+    font-family: 'Rye', cursive;
+}
+
+p {
+    padding: 0px;
+    position: relative;
+    left: 270px;
+    top: 80px;
+}
+b {
+    padding: 0px;
+    position:relative;
+    left: 270px;
+    top: 150px;
+}
+c {
+    padding: 0px;
+    position:relative;
+    left: 270px;
+    top: 230px;
+}
+d {
+    padding: 0px;
+    position:relative;
+    left: 270px;
+    top: 310px;
+}
+zz {
+    font-size: 20px;
+    position:relative;
+    font-family: 'Questrial', sans-serif;
+    text-align:center;
+}
+.box {
+    background-color: #CA9D46;
+    box-sizing:border-box;
+    border: solid #EBC06D;
+    width: 250px;
+    height: 350px;
+    font-size: 32px;
+    font-family: 'Noto Sans', sans-serif;
+    position:relative;
+    left: 1200px;
+    bottom: 700px;
+}
+div7 {
+    background-color: #C92525;
+    width: 300px;
+    border: 10px solid black;
+    padding: 50px;
+    margin: 20px;
+    top: 70px;
+    position:relative;
+    left: 200px;
+    font-family: 'Rye', cursive;
+    font-size: 20px;
+}
